@@ -6,6 +6,7 @@ Subresource Integrity (SRI) is a security feature that enables browsers to verif
 **Example**
 
  Markup
+ 
 ` <img data-src="https://cdn.example.com/1.jpg" data-hash="496aa8990b87f584dffc43e5953d38abcbc30a2edab131fd304fec43d6d9b289" data-fallback="" class="image">
 `  
 
