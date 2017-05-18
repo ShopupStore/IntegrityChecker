@@ -23,7 +23,7 @@ Include Script
 
 **Fallback**
 
-If Integrity check fails you can use the **data-fallback** attribute to load the image from your server
+If Integrity check fails you can use the **data-fallback** attribute to load a fallback image from your server
 
 **Callback**
 
