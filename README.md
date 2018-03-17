@@ -12,7 +12,7 @@ Subresource Integrity (SRI) is a security feature that enables browsers to verif
 
 Include Script
 
-    <script src="/path/integrity-checker-combined.min.js"></script>
+    <script src="/path/integrity-checker-combined.min.js" integrity="sha384-+mOCWz7sToe2ZjClIygG1NOXL1Sjx+St20ejxzjkMyvGsH1l1VMDxeeqDoulbTXK" crossorigin="anonymous"></script>
     <script type="text/javascript>
      integrityChecker('.image', function (image) {
             console.log('check failed')
