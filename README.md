@@ -1,7 +1,7 @@
 # IntegrityChecker
 Sub Resource Integrity Check for Images
 
-Subresource Integrity (SRI) is a security feature that enables browsers to verify that files they fetch are delivered without unexpected manipulation. Currently the original specification is limited to JavaScript and CSS. This is an experimantal JS library to bring SRI support for images. Currently this library only supports sha256 as the data-hash. For SRI to work content server must support CORS.
+Subresource Integrity (SRI) is a security feature that enables browsers to verify that files they fetch are delivered without unexpected manipulation. Currently the original specification is limited to JavaScript and CSS. This is an experimantal JS library to bring SRI support for images. Currently this library only supports **Sha256** as the data-hash. For SRI to work content server must support CORS.
 
 **Example**
 
